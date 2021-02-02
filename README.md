@@ -7,4 +7,4 @@ Memorize can do such a thing as play a game with memorize mechanism, choosing tw
 Supports
 -------------
 
-This project is supported by Standford University.
+This project is supported by Stanford University.
